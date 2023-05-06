@@ -1,2 +1,2 @@
-# Baekjoon-Study
+# Baekjoon-Solved
 공부용
